@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&animation=fadeIn)  
 
 <div align="center">
-<div align="center">
+<!-- <div align="center">
  <h3>안녕하세요</h3>
  <h3>프론트엔드 개발자를 준비하고 있는 김준규 입니다</h3>
  
-</div>
+</div> -->
 <br>
 <h3 align="center">Tech_Front</h3>
 <div align="center" >
